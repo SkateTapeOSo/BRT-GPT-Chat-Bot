@@ -1,1 +1,1 @@
-# BRT-GPT-Chat-Bot
+# GPT-Chat-Bot
